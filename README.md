@@ -86,9 +86,3 @@ Level 5 Diploma in Telecommunication and Systems Engineering
 
 **IBTE Jefri Bolkiah**  
 HNTEC in Computer Networking
-
----
-
-# Contact
-
-Email: jobs.afiqazmani@gmail.com
