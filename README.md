@@ -79,12 +79,6 @@ monitoring and IT documentation.
 
 ---
 
-# Certifications
-
-- Add certifications here
-
----
-
 # Education
 
 **Politeknik Brunei**  
